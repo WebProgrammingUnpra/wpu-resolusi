@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Membuat Platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak Expert
+- membuat merch shop
